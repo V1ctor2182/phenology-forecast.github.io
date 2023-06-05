@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: Welcome to phenology forcast group
 author: cotes
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Welcome]
 tags: [getting started]
 pin: true
 ---
