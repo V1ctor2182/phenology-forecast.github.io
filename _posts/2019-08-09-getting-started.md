@@ -1,15 +1,18 @@
 ---
 title: Welcome to phenology forcast group
-author: cotes
+author: Victor
 date: 2019-08-09 20:55:00 +0800
 categories: [Welcome]
 tags: [getting started]
 pin: true
+image:
+  path: https://preview.redd.it/7vrttcwfjw5b1.png?width=786&format=png&auto=webp&v=enabled&s=b99e6fadf654990ff54e37dcd0a6e9be872904a8
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Samuel T. Dana Building
 ---
 
 
-![Desktop View](https://preview.redd.it/7vrttcwfjw5b1.png?width=786&format=png&auto=webp&v=enabled&s=b99e6fadf654990ff54e37dcd0a6e9be872904a8){: width="972" height="589" }
-_Samuel T. Dana Building_
+
 
 ## At Zhu Lab,
 
